@@ -1,0 +1,1 @@
+Here we are going to learning the standart tex editor from ubuntu
